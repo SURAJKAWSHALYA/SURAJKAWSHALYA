@@ -1,6 +1,19 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SURAJKAWSHALYA.SURAJKAWSHALYA&"  />
+</div
+
 <!-- 🔥 Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Suraj;Software+Engineering+Student;Future+Full-Stack+Developer;Building+Real-World+Projects+🚀" />
+
+>
+
+
+  
 </p>
 
 <!-- 🧑‍💻 Banner -->
