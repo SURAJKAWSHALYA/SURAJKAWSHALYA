@@ -61,13 +61,6 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-### 📚 Library Management System
-💡 A full-stack web application to manage library operations efficiently  
-
-✔ Secure Authentication System 🔐  
-✔ Add, Update & Delete Books 📖  
-✔ Advanced Search & Filtering 🔍  
-✔ Admin Dashboard & User Roles  
 
 ---
 
@@ -81,7 +74,7 @@
 
 ---
 
-### 🤖 Mini Chatbot *(Coming Soon)*
+### 🤖 Mini Chatbot 
 💡 A simple intelligent chatbot for real-time interaction  
 
 ✔ AI-based responses  
@@ -89,6 +82,15 @@
 ✔ Focus on user-friendly experience  
 
 ---
+
+### 📚 Library Management System *(Coming Soon)*
+💡 A full-stack web application to manage library operations efficiently  
+
+✔ Secure Authentication System 🔐  
+✔ Add, Update & Delete Books 📖  
+✔ Advanced Search & Filtering 🔍  
+✔ Admin Dashboard & User Roles  
+
 
 <h2 align="center">📚 Currently Learning</h2>
 
